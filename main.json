@@ -1,0 +1,17 @@
+[
+	{
+        "name": "Zahid",
+        "age": 29,
+        "city": "Rajshahi"
+	},
+    {
+        "name": "Puspita",
+        "age": 21,
+        "city": "Natore"
+	},
+    {
+        "name": "Shamima",
+        "age": 21,
+        "city": "Rajshahi"
+	}
+]
